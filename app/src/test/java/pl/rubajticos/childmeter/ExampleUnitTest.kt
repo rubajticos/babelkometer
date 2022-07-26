@@ -1,4 +1,4 @@
-package pl.rubajticos.babelkometer
+package pl.rubajticos.childmeter
 
 import org.junit.Test
 
