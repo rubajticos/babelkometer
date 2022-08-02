@@ -1,4 +1,4 @@
-package pl.rubajticos.childmeter.ui.theme
+package pl.rubajticos.childmeter.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

@@ -1,4 +1,4 @@
-package pl.rubajticos.childmeter
+package pl.rubajticos.childmeter.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import dagger.hilt.android.AndroidEntryPoint
-import pl.rubajticos.childmeter.ui.theme.BabelkometerTheme
+import pl.rubajticos.childmeter.presentation.theme.BabelkometerTheme
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
